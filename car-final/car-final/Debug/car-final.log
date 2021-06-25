@@ -1,0 +1,19 @@
+﻿Build started 5/3/2015 4:08:33 PM.
+     1>Project "C:\Users\dustin\Desktop\car-final\car-final\car-final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\dustin\desktop\car-final\car-final\main.cpp(9): error C3867: 'Car::getcarinfo': function call missing argument list; use '&Car::getcarinfo' to create a pointer to member
+     1>c:\users\dustin\desktop\car-final\car-final\main.cpp(12): error C3867: 'Car::getcarinfo': function call missing argument list; use '&Car::getcarinfo' to create a pointer to member
+     1>c:\users\dustin\desktop\car-final\car-final\main.cpp(27): error C2440: '=' : cannot convert from 'Car' to 'Car *'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>c:\users\dustin\desktop\car-final\car-final\main.cpp(32): error C2664: 'double faster(std::vector<Car,std::allocator<_Ty>> &)' : cannot convert argument 1 from 'Car *' to 'std::vector<Car,std::allocator<_Ty>> &'
+                 with
+                 [
+                     _Ty=Car
+                 ]
+     1>Done Building Project "C:\Users\dustin\Desktop\car-final\car-final\car-final.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34
