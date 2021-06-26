@@ -1,8 +1,4 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
-*/
+
 
 #ifndef EXCEPTIONS_H
 #define EXCEPTIONS_H

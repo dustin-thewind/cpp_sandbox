@@ -1,10 +1,4 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
 
-Blame for this code lies squarely on Scott Chicoine
-*/
 
 #include "MFP.h"
 

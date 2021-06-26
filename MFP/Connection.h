@@ -1,10 +1,4 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
 
-Scott Chicoine is responsible for this mess.
-*/
 
 #ifndef CONNECTION_H
 #define CONNECTION_H

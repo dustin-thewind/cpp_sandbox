@@ -1,12 +1,4 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
 
-Some say he once coded a tic-tac-toe game with nothing more than
-a typewriter and a set of Tinkertoys.  All we know is that we call him...
-Scott Chicoine.
-*/
 
 #ifndef INPUTDEVICE_H
 #define INPUTDEVICE_H

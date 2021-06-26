@@ -1,11 +1,4 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
 
-Somebody call Scott Chicoine's mother and let her know what he's done.
-Maybe he'll think better about next time.
-*/
 
 #ifndef MFP_H
 #define MFP_H

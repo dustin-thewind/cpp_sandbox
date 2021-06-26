@@ -1,9 +1,4 @@
-/**
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
-Job Object Header File
-*/
+
 #ifndef JOB_H
 #define JOB_H
 

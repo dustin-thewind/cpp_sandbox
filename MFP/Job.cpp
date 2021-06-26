@@ -1,9 +1,4 @@
-/**
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
-Job Object Definitions
-*/
+
 #include "Job.h"
 #include "JobController.h"
 

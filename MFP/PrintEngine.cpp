@@ -1,8 +1,3 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
-*/
 
 #include "PrintEngine.h"
 

@@ -1,9 +1,4 @@
-/*
-Team Abstract Giraffe All-in-One Printer Model
-CSC300
-July 2015
-This code by Adam Bell
-*/
+
 
 #ifndef PAPERTRAY_H
 #define PAPERTRAY_H
